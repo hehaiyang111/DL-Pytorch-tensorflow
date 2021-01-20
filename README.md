@@ -1,2 +1,5 @@
 # DL-Pytorch
-deep learning study using pytorch
+## Day1  Basic
+
+
+
